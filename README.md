@@ -8,7 +8,7 @@ Ensure you have uv installed on your system
 
 ```sh
 
-uv add
+uv sync --all-groups
 ```
 
 ## How to run
